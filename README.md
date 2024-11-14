@@ -1,1 +1,1 @@
-# estimating-airbnb-room-prices-with-machine-learning
+# Estimating Airbnb Room Prices with Machine Learning
